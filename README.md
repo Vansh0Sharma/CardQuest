@@ -25,7 +25,7 @@ To run this Kanban Dashboard locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/bhavaygrg/quicksell-assignment.git
+   git clone https://github.com/Vansh0Sharma/CardQuest.git
    ```
 2. Navigate to the project directory:
    ```
